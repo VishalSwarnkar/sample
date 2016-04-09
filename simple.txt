@@ -1,1 +1,1 @@
-Git hub command line learning
+Git hub commands to run in terminal
